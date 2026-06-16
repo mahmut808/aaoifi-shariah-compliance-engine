@@ -14,8 +14,17 @@ __pycache__/
 *.txt.txt
 scratch/
 
-# Ignore other non-essential PDFs (only the 3 main language ones are allowed)
+# Ignore copyrighted Arabic PDF file (must be kept locally but NOT pushed to GitHub)
+723607313-معايير-الأيوفي-الشرعية-النسخة-العربية-2017.pdf
+723607313-معايير-الأيوفي-الشرعية-النسخة-العربية-2017.pdf.pdf
+
+# Ignore other non-essential PDFs
 aaoifi.pdf
+
+# Allow only the Turkish and English AAOIFI PDF files (publicly available)
+!Faizsiz Finans Standartları AAOIFI (Güncellenmiş Versiyon).pdf
+!Faizsiz Finans Standartları AAOIFI (güncellenmiş versiyon).pdf
+!Shariaa-Standards-ENG.pdf
 
 # Ignore node modules and packages (Tauri frontend, web interface, packages)
 node_modules/
