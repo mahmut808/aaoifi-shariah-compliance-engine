@@ -9,10 +9,10 @@ Parameters:
 * Use Limit: Commercial use by financial institutions and enterprise entities.
   - Free Use: Academics, students, and individuals for non-production/personal use.
   - Paid Commercial Licensing:
-    * Small Participation Banks: $15,000 USD / Year
-    * Large Participation Banks: $25,000 USD / Year
-* Change Date: January 1, 2030
-* Change License: Apache License, Version 2.0
+    * Tier 1 (Annual Revenue < $100M USD): $15,000 USD / Year
+    * Tier 2 (Annual Revenue ≥ $100M USD / Enterprise): $25,000 USD / Year
+* Change Date: June 16, 2030
+* Change License: MIT License
 
 --------------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Terms
 
 1. The Licensor hereby grants you the right to copy and modify the Software and to use the modified or unmodified Software only for non-production, academic, student, individual, or non-commercial purposes. Any commercial production use is prohibited under this grant unless a separate paid commercial license is obtained from the Licensor.
 
-2. You may use the Software commercially in production under the Use Limit specified above, provided that you pay the annual subscription fees associated with your organization size (Small Participation Banks: $15,000 USD/Year; Large Participation Banks: $25,000 USD/Year). Contact the Licensor (mahmut808) for licensing agreements and invoicing.
+2. You may use the Software commercially in production under the Use Limit specified above, provided that you pay the annual subscription fees associated with your organization's annual revenue (Tier 1 [Annual Revenue < $100M USD]: $15,000 USD/Year; Tier 2 [Annual Revenue ≥ $100M USD / Enterprise]: $25,000 USD/Year). Contact the Licensor (mahmut808) for licensing agreements and invoicing. This paid license grants software usage rights only and does not include any technical support, maintenance, updates, or cybersecurity management services.
 
 3. On the Change Date, or on the occurrence of the Change Event, if any, the Licensor hereby grants you a license to use the Software under the Change License.
 
