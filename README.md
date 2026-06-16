@@ -80,6 +80,12 @@ To meet the highest safety standards of banking software (OWASP Application Secu
     python3 app_main.py
     ```
 
+## ⚖️ Intellectual Property & Copyright Disclaimer
+
+*   **English and Turkish Versions**: The English and Turkish versions of the AAOIFI Shariah standards incorporated in this repository are compiled from publicly distributed reference documents.
+*   **Arabic Version**: The Arabic Shariah standards document (`723607313-معايير-الأيوفي-الشرعية-النسخة-العربية-2017.pdf`) is a copyrighted publication of AAOIFI. The developers and users of this repository must ensure they possess the necessary rights or licenses to use and display these documents in their respective production deployments.
+*   All brand names, trademarks, and copyright assets related to AAOIFI standards are the sole property of **AAOIFI (Accounting and Auditing Organization for Islamic Financial Institutions)**. This repository does not claim any ownership over the original text of the standards.
+
 ---
 
 ## 📄 License & Pricing Model
