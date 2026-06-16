@@ -1,0 +1,48 @@
+# Ignore models and weights
+gemma-4-12b-it-Q4_K_M.gguf
+model/
+*.onnx
+
+# Ignore Python caches and pyc files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore all .txt files (sample contracts and scratch texts)
+*.txt
+*.txt.txt
+scratch/
+
+# Ignore other non-essential PDFs (only the 3 main language ones are allowed)
+aaoifi.pdf
+
+# Ignore node modules and packages (Tauri frontend, web interface, packages)
+node_modules/
+packages/
+dist/
+.svelte-kit/
+.tauri/
+
+# Ignore test files and configuration files not used by the desktop app
+tests/
+tsconfig.json
+package.json
+package-lock.json
+snapcraft.yaml
+org.uyumprotokolü.app.yaml
+Modelfile
+ocr_to_markdown.py
+generate_test_contract.py
+converter.py
+check_pdf_health.py
+test_webengine_pdf.py
+aaoifi_text.txt
+aaoifi_corpus.md
+aaoifi_rich.html
+ajan_master_prompt.txt
+skılls.md
+
+# OS specific files
+.DS_Store
+Thumbs.db

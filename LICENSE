@@ -1,0 +1,31 @@
+Business Source License 1.1
+
+License text copyright (c) 2017 MariaDB Corporation Ab, as Modified by mahmut808.
+
+Parameters:
+
+* Licensor: mahmut808
+* Software: AAOIFI Shariah Compliance Engine (aaoifi-shariah-compliance-engine)
+* Use Limit: Commercial use by financial institutions and enterprise entities.
+  - Free Use: Academics, students, and individuals for non-production/personal use.
+  - Paid Commercial Licensing:
+    * Small Participation Banks: $15,000 USD / Year
+    * Large Participation Banks: $25,000 USD / Year
+* Change Date: January 1, 2030
+* Change License: Apache License, Version 2.0
+
+--------------------------------------------------------------------------------
+
+Terms
+
+1. The Licensor hereby grants you the right to copy and modify the Software and to use the modified or unmodified Software only for non-production, academic, student, individual, or non-commercial purposes. Any commercial production use is prohibited under this grant unless a separate paid commercial license is obtained from the Licensor.
+
+2. You may use the Software commercially in production under the Use Limit specified above, provided that you pay the annual subscription fees associated with your organization size (Small Participation Banks: $15,000 USD/Year; Large Participation Banks: $25,000 USD/Year). Contact the Licensor (mahmut808) for licensing agreements and invoicing.
+
+3. On the Change Date, or on the occurrence of the Change Event, if any, the Licensor hereby grants you a license to use the Software under the Change License.
+
+4. You must ensure that any copy of the Software you make or distribute contains this License document and the copyright notice.
+
+5. This License does not grant you any right to use the trademarks of the Licensor.
+
+6. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND. THE LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE.
